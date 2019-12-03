@@ -1,0 +1,4257 @@
+{
+    "period1": [
+        {
+            "@name": "Primeira Aula",
+            "@short": "M1",
+            "@period": "1",
+            "@starttime": "8:00",
+            "@endtime": "8:55"
+        },
+        {
+            "@name": "Segunda Aula",
+            "@short": "M2",
+            "@period": "2",
+            "@starttime": "8:55",
+            "@endtime": "9:50"
+        },
+        {
+            "@name": "Terceira Aula",
+            "@short": "M3",
+            "@period": "3",
+            "@starttime": "10:10",
+            "@endtime": "11:05"
+        },
+        {
+            "@name": "Quarta Aula",
+            "@short": "M4",
+            "@period": "4",
+            "@starttime": "11:05",
+            "@endtime": "12:00"
+        },
+        {
+            "@name": "Primeira Aula",
+            "@short": "V1",
+            "@period": "5",
+            "@starttime": "13:30",
+            "@endtime": "14:25"
+        },
+        {
+            "@name": "Segunda Aula",
+            "@short": "V2",
+            "@period": "6",
+            "@starttime": "14:25",
+            "@endtime": "15:20"
+        },
+        {
+            "@name": "Terceira Aula",
+            "@short": "V3",
+            "@period": "7",
+            "@starttime": "15:40",
+            "@endtime": "16:35"
+        },
+        {
+            "@name": "Quarta Aula",
+            "@short": "V4",
+            "@period": "8",
+            "@starttime": "16:35",
+            "@endtime": "17:30"
+        },
+        {
+            "@name": "Primeira Aula",
+            "@short": "N1",
+            "@period": "9",
+            "@starttime": "19:00",
+            "@endtime": "19:45"
+        },
+        {
+            "@name": "Segunda Aula",
+            "@short": "N2",
+            "@period": "10",
+            "@starttime": "19:45",
+            "@endtime": "20:30"
+        },
+        {
+            "@name": "Terceira Aula",
+            "@short": "N3",
+            "@period": "11",
+            "@starttime": "20:40",
+            "@endtime": "21:25"
+        },
+        {
+            "@name": "Quarta Aula",
+            "@short": "N4",
+            "@period": "12",
+            "@starttime": "21:25",
+            "@endtime": "22:10"
+        }
+    ],
+    "subject1": [
+        {
+            "@id": "57",
+            "@name": "Agroind�stria",
+            "@short": "AGI"
+        },
+        {
+            "@id": "58",
+            "@name": "Custos no Agroneg�cio",
+            "@short": "CAN"
+        },
+        {
+            "@id": "59",
+            "@name": "Com�rcio Exterior",
+            "@short": "CET"
+        },
+        {
+            "@id": "60",
+            "@name": "Empreendedorismo",
+            "@short": "EMP"
+        },
+        {
+            "@id": "61",
+            "@name": "Extens�o Rural",
+            "@short": "EXT"
+        },
+        {
+            "@id": "85",
+            "@name": "Bioestat�stica",
+            "@short": "BES"
+        },
+        {
+            "@id": "86",
+            "@name": "Cultura de C�lulas Animais",
+            "@short": "CCA"
+        },
+        {
+            "@id": "87",
+            "@name": "Cultura de Tecidos Vegetais",
+            "@short": "CTV"
+        },
+        {
+            "@id": "89",
+            "@name": "Parasitologia",
+            "@short": "PSI"
+        },
+        {
+            "@id": "90",
+            "@name": "Tecnologia do Cultivo de Micro-organismos",
+            "@short": "TCM"
+        },
+        {
+            "@id": "103",
+            "@name": "Banco de Dados II",
+            "@short": "BAD"
+        },
+        {
+            "@id": "105",
+            "@name": "Inform�tica, �tica e Sociedade",
+            "@short": "IES"
+        },
+        {
+            "@id": "106",
+            "@name": "Programa��o para Internet",
+            "@short": "PIN"
+        },
+        {
+            "@id": "107",
+            "@name": "Projeto Integrador II",
+            "@short": "PROII"
+        },
+        {
+            "@id": "108",
+            "@name": "Qualidade de Software",
+            "@short": "QUA"
+        },
+        {
+            "@id": "137",
+            "@name": "Eletricidade Industrial",
+            "@short": "ELI"
+        },
+        {
+            "@id": "138",
+            "@name": "Eletrot�cnica",
+            "@short": "ELT"
+        },
+        {
+            "@id": "139",
+            "@name": "Hidr�ulica e Pneum�tica",
+            "@short": "HPN"
+        },
+        {
+            "@id": "140",
+            "@name": "Lubrifica��o Industrial",
+            "@short": "LUB"
+        },
+        {
+            "@id": "141",
+            "@name": "M�quinas El�tricas",
+            "@short": "MAQ"
+        },
+        {
+            "@id": "142",
+            "@name": "Microcontroladores",
+            "@short": "MIC"
+        },
+        {
+            "@id": "143",
+            "@name": "Processos de Usinagem I",
+            "@short": "PRU"
+        },
+        {
+            "@id": "145",
+            "@name": "Controle e Automa��o",
+            "@short": "CAU"
+        },
+        {
+            "@id": "146",
+            "@name": "CNC",
+            "@short": "CNC"
+        },
+        {
+            "@id": "147",
+            "@name": "Desenho 3D",
+            "@short": "DED"
+        },
+        {
+            "@id": "148",
+            "@name": "Empreendedorismo",
+            "@short": "EMP"
+        },
+        {
+            "@id": "149",
+            "@name": "Instala��es Industriais",
+            "@short": "INS"
+        },
+        {
+            "@id": "150",
+            "@name": "Manuten��o Industrial",
+            "@short": "MAN"
+        },
+        {
+            "@id": "151",
+            "@name": "Processos de Usinagem II",
+            "@short": "PRU"
+        },
+        {
+            "@id": "153",
+            "@name": "Elementos de Matem�tica Aplicada II",
+            "@short": "EMA"
+        },
+        {
+            "@id": "155",
+            "@name": "Desenho T�cnico",
+            "@short": "DTC"
+        },
+        {
+            "@id": "156",
+            "@name": "Fundamentos de Biologia",
+            "@short": "FBI"
+        },
+        {
+            "@id": "157",
+            "@name": "F�sico-qu�mica I",
+            "@short": "FSQ"
+        },
+        {
+            "@id": "158",
+            "@name": "Qu�mica Geral e Experimental II",
+            "@short": "QGE"
+        },
+        {
+            "@id": "159",
+            "@name": "Fundamentos de Laboratório",
+            "@short": "FGL"
+        },
+        {
+            "@id": "161",
+            "@name": "Qu�mica Inorg�nica",
+            "@short": "QIN"
+        },
+        {
+            "@id": "162",
+            "@name": "Citologia e Gen�tica Aplicada",
+            "@short": "CGA"
+        },
+        {
+            "@id": "163",
+            "@name": "Biosseguran�a e Bio�tica",
+            "@short": "BSE"
+        },
+        {
+            "@id": "164",
+            "@name": "Bot�nica e Fisiologia Vegetal",
+            "@short": "BFV"
+        },
+        {
+            "@id": "165",
+            "@name": "Biotecnologia Ambiental",
+            "@short": "BAM"
+        },
+        {
+            "@id": "166",
+            "@name": "Qu�mica Org�nica I",
+            "@short": "QOR"
+        },
+        {
+            "@id": "187",
+            "@name": "Projeto Integrador",
+            "@short": "PIN"
+        },
+        {
+            "@id": "242",
+            "@name": "C�lculo II",
+            "@short": "CAL2"
+        },
+        {
+            "@id": "246",
+            "@name": "F�sica I",
+            "@short": "FIS1"
+        },
+        {
+            "@id": "258",
+            "@name": "F�sica III",
+            "@short": "FIS3"
+        },
+        {
+            "@id": "261",
+            "@name": "Manuten��o Industrial",
+            "@short": "MAN"
+        },
+        {
+            "@id": "270",
+            "@name": "Introdu��o �Programa��o",
+            "@short": "IPI"
+        },
+        {
+            "@id": "272",
+            "@name": "Banco de Dados",
+            "@short": "BDD"
+        },
+        {
+            "@id": "273",
+            "@name": "Comunica��o e Express�o",
+            "@short": "CEE"
+        },
+        {
+            "@id": "277",
+            "@name": "Citologia e Gen�tica Aplicada",
+            "@short": "CGA"
+        },
+        {
+            "@id": "296",
+            "@name": "Projeto Integrador",
+            "@short": "PIN"
+        },
+        {
+            "@id": "297",
+            "@name": "Qu�mica Geral",
+            "@short": "QUI"
+        },
+        {
+            "@id": "298",
+            "@name": "Teoria Geral da Administracao",
+            "@short": "TGA"
+        },
+        {
+            "@id": "299",
+            "@name": "Qu�mica de Biomol�culas",
+            "@short": "QBI"
+        },
+        {
+            "@id": "300",
+            "@name": "Histofisiologia Animal",
+            "@short": "HVA"
+        },
+        {
+            "@id": "301",
+            "@name": "Microbiologia",
+            "@short": "MIC"
+        },
+        {
+            "@id": "302",
+            "@name": "Imunologia",
+            "@short": "IMU"
+        },
+        {
+            "@id": "303",
+            "@name": "No��es de Toxicologia",
+            "@short": "TXO"
+        },
+        {
+            "@id": "304",
+            "@name": "Biotecnologia Agr�cola",
+            "@short": "BAG"
+        },
+        {
+            "@id": "340",
+            "@name": "Ingl�s 2 (turma 2)",
+            "@short": "FING21"
+        },
+        {
+            "@id": "341",
+            "@name": "Ingl�s 2 (turma 1)",
+            "@short": "FING21"
+        },
+        {
+            "@id": "342",
+            "@name": "Metrologia + Desenho T�cnico",
+            "@short": ""
+        },
+        {
+            "@id": "343",
+            "@name": "Eletricidade",
+            "@short": ""
+        },
+        {
+            "@id": "344",
+            "@name": "C�lculo T�cnico",
+            "@short": ""
+        },
+        {
+            "@id": "345",
+            "@name": "Metrologia + Desenho T�cnico",
+            "@short": ""
+        },
+        {
+            "@id": "346",
+            "@name": "Linguagem e Comunica��o",
+            "@short": ""
+        },
+        {
+            "@id": "347",
+            "@name": "Inform�tica",
+            "@short": ""
+        },
+        {
+            "@id": "365",
+            "@name": "Projeto Integrador 2",
+            "@short": "PJI2"
+        },
+        {
+            "@id": "396",
+            "@name": "Linguagens e Paradigmas de Programa��o",
+            "@short": "LPP"
+        },
+        {
+            "@id": "415",
+            "@name": "Sistemas de Gerenciamento de Conte�do",
+            "@short": "SIS"
+        },
+        {
+            "@id": "416",
+            "@name": "Web Design",
+            "@short": "WEB"
+        },
+        {
+            "@id": "417",
+            "@name": "Seguran�a da Informa��o",
+            "@short": "SEG"
+        },
+        {
+            "@id": "418",
+            "@name": "Projetos e Man. Mecatr�nica",
+            "@short": ""
+        },
+        {
+            "@id": "419",
+            "@name": "Rob�tica",
+            "@short": ""
+        },
+        {
+            "@id": "420",
+            "@name": "Automa��o",
+            "@short": ""
+        },
+        {
+            "@id": "421",
+            "@name": "Redes Industriais",
+            "@short": ""
+        },
+        {
+            "@id": "422",
+            "@name": "Usinagem CNC",
+            "@short": ""
+        },
+        {
+            "@id": "423",
+            "@name": "M�quinas El�tricas",
+            "@short": ""
+        },
+        {
+            "@id": "424",
+            "@name": "Desenho CAD",
+            "@short": ""
+        },
+        {
+            "@id": "425",
+            "@name": "Processos de Fabrica��o",
+            "@short": ""
+        },
+        {
+            "@id": "426",
+            "@name": "Circuitos El�tricos",
+            "@short": ""
+        },
+        {
+            "@id": "427",
+            "@name": "Tecnologia dos Materiais I",
+            "@short": ""
+        },
+        {
+            "@id": "428",
+            "@name": "Elementos de M�quinas",
+            "@short": ""
+        },
+        {
+            "@id": "429",
+            "@name": "Eletr�nica",
+            "@short": ""
+        },
+        {
+            "@id": "437",
+            "@name": "Fundamentos de Laborat�rio",
+            "@short": "FGL"
+        },
+        {
+            "@id": "440",
+            "@name": "FITOSSANIDADE",
+            "@short": "FIT069301"
+        },
+        {
+            "@id": "441",
+            "@name": "VINHOS - T�CNICAS DE DEGUSTA��O E HARMONIZA��O",
+            "@short": "ENO069301"
+        },
+        {
+            "@id": "442",
+            "@name": "VITIVINICULTURA",
+            "@short": "VIT069301"
+        },
+        {
+            "@id": "456",
+            "@name": "Cultura de Tecidos Vegetais",
+            "@short": "CTV"
+        },
+        {
+            "@id": "457",
+            "@name": "Parasitologia",
+            "@short": "PSI"
+        },
+        {
+            "@id": "458",
+            "@name": "Introdu��o �Programa��o",
+            "@short": "IPI"
+        },
+        {
+            "@id": "459",
+            "@name": "Sistemas e Conectividade",
+            "@short": "SEC"
+        },
+        {
+            "@id": "460",
+            "@name": "Desenvolvimento de Sistema WEB I",
+            "@short": "DES"
+        },
+        {
+            "@id": "461",
+            "@name": "Gest�o da Tecnologia de Informa��o",
+            "@short": "GTI"
+        },
+        {
+            "@id": "462",
+            "@name": "Biotecnologia Ambiental",
+            "@short": "BAM"
+        },
+        {
+            "@id": "463",
+            "@name": "Qu�mica Geral",
+            "@short": "QUI"
+        },
+        {
+            "@id": "464",
+            "@name": "Qu�mica Anal�tica Experimental",
+            "@short": "QAE"
+        },
+        {
+            "@id": "465",
+            "@name": "Tecnologia de Fermenta��es",
+            "@short": "TFE"
+        },
+        {
+            "@id": "466",
+            "@name": "Ingl�s Aplicado � Biotecnologia",
+            "@short": "ING"
+        },
+        {
+            "@id": "467",
+            "@name": "Elabora��o de Projetos",
+            "@short": "EPR"
+        },
+        {
+            "@id": "468",
+            "@name": "Biologia Molecular",
+            "@short": "BMO"
+        },
+        {
+            "@id": "470",
+            "@name": "Bioqu�mica",
+            "@short": "BQM"
+        },
+        {
+            "@id": "471",
+            "@name": "Programa��o Orientada a Objetos",
+            "@short": "POO"
+        },
+        {
+            "@id": "473",
+            "@name": "Arquitetura e Organiza��o de Computadores",
+            "@short": "AOC"
+        },
+        {
+            "@id": "474",
+            "@name": "�lgebra Linear e Geometria Anal�tica",
+            "@short": "ALG"
+        },
+        {
+            "@id": "475",
+            "@name": "Introdu��o a Redes de Computadores",
+            "@short": "IRC"
+        },
+        {
+            "@id": "476",
+            "@name": "Grafos",
+            "@short": "GRF"
+        },
+        {
+            "@id": "477",
+            "@name": "Fundamentos de Banco de Dados",
+            "@short": "FBD"
+        },
+        {
+            "@id": "478",
+            "@name": "Fundamentos de Banco de Dados",
+            "@short": "FBD"
+        },
+        {
+            "@id": "479",
+            "@name": "Teoria da Computa��o",
+            "@short": "TCP"
+        },
+        {
+            "@id": "480",
+            "@name": "Introdu��o � Engenharia de Software",
+            "@short": "IES"
+        },
+        {
+            "@id": "481",
+            "@name": "C�lculo Num�rico",
+            "@short": "CNM"
+        },
+        {
+            "@id": "482",
+            "@name": "Inform�tica e Sociedade",
+            "@short": "IES"
+        },
+        {
+            "@id": "483",
+            "@name": "Computa��o Gr�fica",
+            "@short": "CGF"
+        },
+        {
+            "@id": "484",
+            "@name": "Seguran�a Computacional",
+            "@short": "SCP"
+        },
+        {
+            "@id": "485",
+            "@name": "Intelig�ncia Artificial",
+            "@short": "IAF"
+        },
+        {
+            "@id": "486",
+            "@name": "Eletiva I (Minera��o de Dados)",
+            "@short": "ELA"
+        },
+        {
+            "@id": "487",
+            "@name": "Sistemas Distribu�dos",
+            "@short": "STD"
+        },
+        {
+            "@id": "488",
+            "@name": "Sistemas Distribu�dos",
+            "@short": "STD"
+        },
+        {
+            "@id": "489",
+            "@name": "Trabalho de Conclus�o de Curso II",
+            "@short": "TCB"
+        },
+        {
+            "@id": "490",
+            "@name": "Eletiva III (Interface Homem M�quina)",
+            "@short": "ELC"
+        },
+        {
+            "@id": "491",
+            "@name": "Eletiva IV (Computa��o Urbana)",
+            "@short": "ELD"
+        },
+        {
+            "@id": "492",
+            "@name": "Ger�ncia de Projetos",
+            "@short": "GPR"
+        },
+        {
+            "@id": "493",
+            "@name": "M�todos Estat�sticos",
+            "@short": "MET"
+        },
+        {
+            "@id": "494",
+            "@name": "Microbiologia e Parasitologia (turma A)",
+            "@short": "MIP"
+        },
+        {
+            "@id": "495",
+            "@name": "Microbiologia e Parasitologia (turma B)",
+            "@short": "MIP"
+        },
+        {
+            "@id": "496",
+            "@name": "Ingl�s Instrumental",
+            "@short": "ING"
+        },
+        {
+            "@id": "497",
+            "@name": "Ingl�s Instrumental",
+            "@short": "ING"
+        },
+        {
+            "@id": "498",
+            "@name": "Qu�mica Anal�tica (turma A)",
+            "@short": "QAN"
+        },
+        {
+            "@id": "499",
+            "@name": "Qu�mica Anal�tica (turma B)",
+            "@short": "QAN"
+        },
+        {
+            "@id": "500",
+            "@name": "Qu�mica Org�nica II (turma A)",
+            "@short": "QOR2"
+        },
+        {
+            "@id": "501",
+            "@name": "An�lise de Alimentos",
+            "@short": "AAL"
+        },
+        {
+            "@id": "502",
+            "@name": "An�lises Cl�nicas",
+            "@short": "ACL"
+        },
+        {
+            "@id": "503",
+            "@name": "No��es de Processos Industriais",
+            "@short": "NPI"
+        },
+        {
+            "@id": "504",
+            "@name": "An�lise e Tratamento de �guas e Efluentes",
+            "@short": "ATA"
+        },
+        {
+            "@id": "505",
+            "@name": "Empreendedorismo",
+            "@short": "EMP"
+        },
+        {
+            "@id": "506",
+            "@name": "Trabalho de Conclus�o de Curso II",
+            "@short": "TCC2"
+        },
+        {
+            "@id": "507",
+            "@name": "�lgebra Linear e Geometria Anal�tica",
+            "@short": "ALG"
+        },
+        {
+            "@id": "508",
+            "@name": "Desenho T�cnico I",
+            "@short": "DES1"
+        },
+        {
+            "@id": "509",
+            "@name": "Mecanismos",
+            "@short": "MEC"
+        },
+        {
+            "@id": "510",
+            "@name": "C�lculo II",
+            "@short": "CAL2"
+        },
+        {
+            "@id": "511",
+            "@name": "�lgebra Linear",
+            "@short": "ALG"
+        },
+        {
+            "@id": "512",
+            "@name": "Estat�stica e Probabilidade",
+            "@short": "ESP"
+        },
+        {
+            "@id": "513",
+            "@name": "Desenho T�cnico I",
+            "@short": "DES1"
+        },
+        {
+            "@id": "514",
+            "@name": "Sa�de e Seguran�a do Trabalho",
+            "@short": "SST"
+        },
+        {
+            "@id": "515",
+            "@name": "Sa�de e Seguran�a do Trabalho",
+            "@short": "SST"
+        },
+        {
+            "@id": "516",
+            "@name": "Metodologia da Pesquisa",
+            "@short": "MPE"
+        },
+        {
+            "@id": "517",
+            "@name": "C�lculo IV",
+            "@short": "CAL4"
+        },
+        {
+            "@id": "518",
+            "@name": "C�lculo IV",
+            "@short": "CAL4"
+        },
+        {
+            "@id": "519",
+            "@name": "Termodin�mica",
+            "@short": "TMD"
+        },
+        {
+            "@id": "520",
+            "@name": "Mec�nica dos S�lidos I",
+            "@short": "MSO1"
+        },
+        {
+            "@id": "521",
+            "@name": "Ci�ncia e Tecnologia dos Materiais",
+            "@short": "CTM"
+        },
+        {
+            "@id": "522",
+            "@name": "Administra��o para Engenharia",
+            "@short": "ADM"
+        },
+        {
+            "@id": "523",
+            "@name": "Transfer�ncia de Calor",
+            "@short": "TCL"
+        },
+        {
+            "@id": "525",
+            "@name": "Mec�nica dos Flu�dos II",
+            "@short": "MFL2"
+        },
+        {
+            "@id": "526",
+            "@name": "Economia para Engenharia",
+            "@short": "ECO"
+        },
+        {
+            "@id": "527",
+            "@name": "Materiais de Contru��o Mec�nica",
+            "@short": "MCM"
+        },
+        {
+            "@id": "528",
+            "@name": "Proc. Fabr. Mec�nica I - Usinagem",
+            "@short": "PFB1"
+        },
+        {
+            "@id": "529",
+            "@name": "Eletricidade Aplicada",
+            "@short": "ELA"
+        },
+        {
+            "@id": "530",
+            "@name": "C�lculo I",
+            "@short": "CAL1"
+        },
+        {
+            "@id": "531",
+            "@name": "C�lculo III",
+            "@short": "CAL3"
+        },
+        {
+            "@id": "532",
+            "@name": "Desenho CAD",
+            "@short": ""
+        },
+        {
+            "@id": "533",
+            "@name": "Processos de Fabrica��o",
+            "@short": ""
+        },
+        {
+            "@id": "534",
+            "@name": "Circuitos El�tricos",
+            "@short": ""
+        },
+        {
+            "@id": "535",
+            "@name": "Tecnologia dos Materiais I",
+            "@short": ""
+        },
+        {
+            "@id": "536",
+            "@name": "Elementos de M�quinas",
+            "@short": ""
+        },
+        {
+            "@id": "537",
+            "@name": "Eletr�nica",
+            "@short": ""
+        },
+        {
+            "@id": "538",
+            "@name": "Bioqu�mica",
+            "@short": "BQM"
+        },
+        {
+            "@id": "539",
+            "@name": "Opera��es Unit�rias 1",
+            "@short": "OPU1"
+        },
+        {
+            "@id": "540",
+            "@name": "Qu�mica Anal�tica 2",
+            "@short": "QAN2"
+        },
+        {
+            "@id": "541",
+            "@name": "Gest�o e Empreendedorismo",
+            "@short": "GEP"
+        },
+        {
+            "@id": "542",
+            "@name": "Ci�ncia, Tecnologia e Sociedade",
+            "@short": "CTS"
+        },
+        {
+            "@id": "543",
+            "@name": "Processos Qu�micos Industriais",
+            "@short": "PQI1"
+        },
+        {
+            "@id": "544",
+            "@name": "Microbiologia de Alimentos",
+            "@short": "MBA"
+        },
+        {
+            "@id": "547",
+            "@name": "Empreendedorismo e Gest�o de Pequenos Neg�cios",
+            "@short": "EPN"
+        },
+        {
+            "@id": "548",
+            "@name": "Qu�mica Org�nica II (turma B)",
+            "@short": "QOR2"
+        },
+        {
+            "@id": "550",
+            "@name": "Teoria da Computa��o",
+            "@short": "TCP"
+        },
+        {
+            "@id": "553",
+            "@name": "Eletr�nica",
+            "@short": ""
+        },
+        {
+            "@id": "554",
+            "@name": "Redes Industriais",
+            "@short": ""
+        },
+        {
+            "@id": "555",
+            "@name": "Circuitos El�tricos",
+            "@short": ""
+        },
+        {
+            "@id": "556",
+            "@name": "Processos de Usinagem I",
+            "@short": "PRU"
+        },
+        {
+            "@id": "557",
+            "@name": "Controle e Automa��o",
+            "@short": "CAU"
+        },
+        {
+            "@id": "559",
+            "@name": "Ingl�s 3",
+            "@short": "FING31"
+        },
+        {
+            "@id": "563",
+            "@name": "Atividades de Extens�o I",
+            "@short": "ATE-I"
+        },
+        {
+            "@id": "564",
+            "@name": "Fundamentos do Agroneg�cio",
+            "@short": "FAG"
+        },
+        {
+            "@id": "565",
+            "@name": "Cooperativismo e Associativismo Rural",
+            "@short": "CAR"
+        },
+        {
+            "@id": "566",
+            "@name": "Sustentabilidade na Produ��o Agr�cola",
+            "@short": "SPA"
+        },
+        {
+            "@id": "567",
+            "@name": "Cadeias Produtivas de Animais Ruminantes",
+            "@short": "CPAR"
+        },
+        {
+            "@id": "568",
+            "@name": "Cadeias Produtivas de Culturas Anuais",
+            "@short": "CPCA"
+        },
+        {
+            "@id": "569",
+            "@name": "Comunica��o e Express�o Empresarial",
+            "@short": "CEP"
+        },
+        {
+            "@id": "570",
+            "@name": "Inform�tica Aplicada ao Agroneg�cio",
+            "@short": "IAA"
+        },
+        {
+            "@id": "571",
+            "@name": "BOT�NICA APLICADA",
+            "@short": "BAP015301"
+        },
+        {
+            "@id": "572",
+            "@name": "Fundamentos de Agroecologi",
+            "@short": "FUN015301"
+        },
+        {
+            "@id": "573",
+            "@name": "G�NESE E FERTILIDADE DOS SOLOS",
+            "@short": "GFS015301"
+        },
+        {
+            "@id": "575",
+            "@name": "Sanidade Vegetal",
+            "@short": "SAN"
+        },
+        {
+            "@id": "576",
+            "@name": "INFORM�TICA",
+            "@short": "INF015301"
+        },
+        {
+            "@id": "577",
+            "@name": "Produ��o de Mudas e Sementes",
+            "@short": "PMH"
+        },
+        {
+            "@id": "578",
+            "@name": "PRODU��O VEGETAL 1",
+            "@short": "PV1015301"
+        },
+        {
+            "@id": "582",
+            "@name": "CONSTRU��ES RURAIS",
+            "@short": "CRU015303"
+        },
+        {
+            "@id": "583",
+            "@name": "PROCESSAMENTO DE ALIMENTOS 2",
+            "@short": "PA2015303"
+        },
+        {
+            "@id": "584",
+            "@name": "SISTEMAS AGROFLORESTAIS",
+            "@short": "SIS015303"
+        },
+        {
+            "@id": "585",
+            "@name": "TOPOGRAFIA E CARTOGRAFIA",
+            "@short": "TPC015303"
+        },
+        {
+            "@id": "586",
+            "@name": "Fundamentos da Administra��o",
+            "@short": "FDA"
+        },
+        {
+            "@id": "587",
+            "@name": "Portugu�s",
+            "@short": "POR"
+        },
+        {
+            "@id": "588",
+            "@name": "Inform�tica B�sica",
+            "@short": "INF"
+        },
+        {
+            "@id": "589",
+            "@name": "Matem�tica aplicada a adm",
+            "@short": "MAA"
+        },
+        {
+            "@id": "590",
+            "@name": "Administra��o de produ��o",
+            "@short": "APO"
+        },
+        {
+            "@id": "591",
+            "@name": "Administra��o de materiais",
+            "@short": "AMA"
+        },
+        {
+            "@id": "592",
+            "@name": "Gest�o de Turismo e meio ambiente",
+            "@short": "GTM"
+        },
+        {
+            "@id": "593",
+            "@name": "Reda��o Oficial",
+            "@short": "ROF"
+        },
+        {
+            "@id": "594",
+            "@name": "Avalia��o Institucional",
+            "@short": "AVI"
+        },
+        {
+            "@id": "595",
+            "@name": "Gest�o da Qualidade no Ambiente Escolar",
+            "@short": "GQAE"
+        },
+        {
+            "@id": "596",
+            "@name": "Gest�o Financeira Patrimonial Escolar",
+            "@short": "GFP"
+        },
+        {
+            "@id": "597",
+            "@name": "Forma��o de Formadores",
+            "@short": "FFO"
+        },
+        {
+            "@id": "598",
+            "@name": "Planejamento em Organiza��o de Ensinos",
+            "@short": "POE"
+        },
+        {
+            "@id": "601",
+            "@name": "Auxiliar Administrativo",
+            "@short": "AAD"
+        },
+        {
+            "@id": "602",
+            "@name": "ZOOTECNIA 1",
+            "@short": "Z01015301"
+        },
+        {
+            "@id": "603",
+            "@name": "CONSTRU��ES RURAIS",
+            "@short": "CRU015303"
+        },
+        {
+            "@id": "604",
+            "@name": "Hist�ria da Ci�ncia e Tecnologia",
+            "@short": "HCT"
+        },
+        {
+            "@id": "605",
+            "@name": "Bioestat�stica",
+            "@short": "BES"
+        },
+        {
+            "@id": "606",
+            "@name": "An�lises Cl�nicas",
+            "@short": "ACL"
+        },
+        {
+            "@id": "607",
+            "@name": "An�lise de solo, �gua e efluentes",
+            "@short": "ASE"
+        },
+        {
+            "@id": "608",
+            "@name": "Projeto Integrador",
+            "@short": "PIN"
+        },
+        {
+            "@id": "609",
+            "@name": "Linguagem e Comunica��o",
+            "@short": "LIN"
+        },
+        {
+            "@id": "610",
+            "@name": "Empreendedorismo",
+            "@short": "EMP"
+        },
+        {
+            "@id": "611",
+            "@name": "Biotecnologia Agr�cola",
+            "@short": "BAG"
+        },
+        {
+            "@id": "612",
+            "@name": "Citologia e Gen�tica Aplicada",
+            "@short": "CGA"
+        },
+        {
+            "@id": "613",
+            "@name": "Citologia e Gen�tica Aplicada",
+            "@short": "CGA"
+        },
+        {
+            "@id": "614",
+            "@name": "Projeto Integrador II",
+            "@short": "PROII"
+        },
+        {
+            "@id": "615",
+            "@name": "Desenvolvimento de Sistema WEB II",
+            "@short": "DES2"
+        },
+        {
+            "@id": "616",
+            "@name": "Desenvolvimento de Sistema WEB II",
+            "@short": "DES2"
+        },
+        {
+            "@id": "617",
+            "@name": "Administra��o e Suporte de Sistemas",
+            "@short": "ADM"
+        },
+        {
+            "@id": "618",
+            "@name": "Ingl�s",
+            "@short": "IGL"
+        },
+        {
+            "@id": "619",
+            "@name": "An�lise e Projeto de Sistemas",
+            "@short": "APS"
+        },
+        {
+            "@id": "620",
+            "@name": "An�lise e Projeto de Sistemas",
+            "@short": "APS"
+        },
+        {
+            "@id": "621",
+            "@name": "Gest�o e �tica em TI",
+            "@short": "GTI"
+        }
+    ],
+    "teacher1": [
+        {
+            "@short": "Adriellen",
+            "@name": "Adriellen Lima de Sousa",
+            "@id": "48",
+            "@timeoff": ".111111111111,.111111111111,.111100001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Ailton",
+            "@name": "Ailton Durigon",
+            "@id": "27",
+            "@timeoff": ".000011110000,.000011111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Alexandre",
+            "@name": "Alexandre Perin de Souza",
+            "@id": "10",
+            "@timeoff": ".111111111111,.111111111111,.111100000000,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Ana",
+            "@name": "Ana Maria Martins Roeber",
+            "@id": "25",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Ana",
+            "@name": "Ana Paula de Lima Veeck",
+            "@id": "34",
+            "@timeoff": ".000000001111,.111111111111,.111111111111,.111111111111,.111111110000,.000000000000"
+        },
+        {
+            "@short": "Anderson",
+            "@name": "Anderson Luis Garcia Correia",
+            "@id": "39",
+            "@timeoff": ".111111111111,.111111111111,.111100001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Anderson",
+            "@name": "Anderson W. S. Borges",
+            "@id": "56",
+            "@timeoff": ".111111111111,.111111111111,.111100000000,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Andre",
+            "@name": "Andre Salvaro Furtado",
+            "@id": "67",
+            "@timeoff": ".000011111111,.111111111111,.111111111111,.111111111111,.000000000000,.000000000000"
+        },
+        {
+            "@short": "Ariton",
+            "@name": "Ariton Araldi",
+            "@id": "36",
+            "@timeoff": ".111111111111,.111111111111,.111100001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Carlos",
+            "@name": "Carlos Andres Ferrero",
+            "@id": "88",
+            "@timeoff": ".000000000000,.111111111111,.111111111111,.111111111111,.000000000000,.000000000000"
+        },
+        {
+            "@short": "Carolina",
+            "@name": "Carolina Berger",
+            "@id": "65",
+            "@timeoff": ".111111111111,.111111110000,.000000001111,.111111110000,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Claudio",
+            "@name": "Claudio Marques Schaeffer",
+            "@id": "52",
+            "@timeoff": ".000000000000,.111111111111,.111100001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Diego",
+            "@name": "Diego Bittencourt Machado",
+            "@id": "90",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.000000000000,.000000000000,.000000000000"
+        },
+        {
+            "@short": "Eduardo",
+            "@name": "Eduardo Tealdi Foga�a",
+            "@id": "17",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Fernando",
+            "@name": "Fernando da Silva Os�rio",
+            "@id": "66",
+            "@timeoff": ".000000000000,.000000000000,.111100001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Fernando",
+            "@name": "Fernando Domingos Zinger",
+            "@id": "14",
+            "@timeoff": ".111111111111,.000011111111,.111100001111,.111111111111,.000011111111,.000000000000"
+        },
+        {
+            "@short": "Gabriel",
+            "@name": "Gabriel Granzotto Madruga",
+            "@id": "49",
+            "@timeoff": ".111111111111,.111111111111,.000000001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Gustavo",
+            "@name": "Gustavo Henrique S. F. Ponce",
+            "@id": "58",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Jaqueline",
+            "@name": "Jaqueline Suave",
+            "@id": "59",
+            "@timeoff": ".000000000000,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Jhonatan",
+            "@name": "Jhonatan Machado",
+            "@id": "55",
+            "@timeoff": ".111111111111,.000011111111,.111100001111,.111111111111,.111111110000,.000000000000"
+        },
+        {
+            "@short": "Jo�o",
+            "@name": "Jo�o Gustavo Provesi",
+            "@id": "60",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Jocleita",
+            "@name": "Jocleita Peruzzo Ferrareze",
+            "@id": "33",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.111111111111,.111100000000,.000000000000"
+        },
+        {
+            "@short": "Jos�",
+            "@name": "Jos� C� Junior",
+            "@id": "19",
+            "@timeoff": ".000011111111,.111111111111,.000000001111,.000011111111,.000011110000,.000000000000"
+        },
+        {
+            "@short": "Jos�",
+            "@name": "Jos� Mecabo Junior",
+            "@id": "32",
+            "@timeoff": ".111111111111,.111111111111,.111100001111,.111100001111,.111111110000,.000000000000"
+        },
+        {
+            "@short": "Juliano",
+            "@name": "Juliano Lucas Gon�alves",
+            "@id": "11",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.000000001111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Juliano",
+            "@name": "Juliano Machado Menegazzo",
+            "@id": "78",
+            "@timeoff": ".111111110000,.111111110000,.000011111111,.111111110000,.000000000000,.000000000000"
+        },
+        {
+            "@short": "Larisse",
+            "@name": "Larisse Kupisk",
+            "@id": "62",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Lucia",
+            "@name": "Lucia Helena Baggio Martins",
+            "@id": "35",
+            "@timeoff": ".000000001111,.111111111111,.111111111111,.111111111111,.000000000000,.000000000000"
+        },
+        {
+            "@short": "Luciane",
+            "@name": "Luciane Bittencourt",
+            "@id": "8",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Luciane",
+            "@name": "Luciane Costa de Oliveira",
+            "@id": "30",
+            "@timeoff": ".111111110000,.111111111111,.111111111111,.111100001111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Marco",
+            "@name": "Marco Aurelio Woehl",
+            "@id": "41",
+            "@timeoff": ".111111111111,.111111111111,.111100000000,.111100001111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Marisa",
+            "@name": "Marisa Santos Sanson",
+            "@id": "63",
+            "@timeoff": ".111111111111,.111111111111,.000000001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Matheus",
+            "@name": "Matheus Fontanelle Pereira",
+            "@id": "54",
+            "@timeoff": ".111111111111,.111111111111,.000000001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Michael",
+            "@name": "Michael Ramos Nunes",
+            "@id": "38",
+            "@timeoff": ".111111111111,.111111111111,.111100000000,.111111111111,.111111110000,.000000000000"
+        },
+        {
+            "@short": "M�nia",
+            "@name": "M�nia Stremel Azevedo",
+            "@id": "79",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Patrese",
+            "@name": "Patrese Coelho Vieira",
+            "@id": "53",
+            "@timeoff": ".111111111111,.111111111111,.111100001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Paula",
+            "@name": "Paula Clarice S. G. de Jesus",
+            "@id": "80",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.000000000000,.000000000000,.000000000000"
+        },
+        {
+            "@short": "Paula",
+            "@name": "Paula Iaschitzki Ferreira Cipriani",
+            "@id": "64",
+            "@timeoff": ".111111111111,.111111111111,.111100001111,.111100001111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Paulo",
+            "@name": "Paulo Henrique M. Calixto",
+            "@id": "45",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.000000000001,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Rafael",
+            "@name": "Rafael Grebogi",
+            "@id": "44",
+            "@timeoff": ".111111111111,.111111111111,.111100001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Rafael",
+            "@name": "Rafael Gustavo Schreiber",
+            "@id": "69",
+            "@timeoff": ".111111111111,.111111111111,.111100001111,.000000000000,.000000000000,.000000000000"
+        },
+        {
+            "@short": "Rafael",
+            "@name": "Rafael Santiago Floriani Pereira",
+            "@id": "87",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Ricardo",
+            "@name": "Ricardo Teran Muhl",
+            "@id": "82",
+            "@timeoff": ".111111111111,.111111111111,.111100001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Rita",
+            "@name": "Rita de C�ssia Freitas Santos",
+            "@id": "40",
+            "@timeoff": ".000000000000,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Roberto",
+            "@name": "Roberto Akitoshi Komatsu",
+            "@id": "31",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Roberval",
+            "@name": "Roberval Silva Bett",
+            "@id": "68",
+            "@timeoff": ".000000000000,.000011111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Robson",
+            "@name": "Robson Costa",
+            "@id": "20",
+            "@timeoff": ".111111111111,.111111111111,.000000001111,.000011111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Rog�rio",
+            "@name": "Rog�rio da Silva",
+            "@id": "71",
+            "@timeoff": ".000000000000,.000000000000,.000000001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Rosane",
+            "@name": "Rosane S. de Aquino",
+            "@id": "46",
+            "@timeoff": ".000000000000,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Samuel",
+            "@name": "Samuel Ferreira De Mello",
+            "@id": "72",
+            "@timeoff": ".000000000000,.000011111111,.111111111111,.111111111111,.000011111111,.000000000000"
+        },
+        {
+            "@short": "Sayonara",
+            "@name": "Sayonara Varela",
+            "@id": "77",
+            "@timeoff": ".111111111111,.000011111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Silmar",
+            "@name": "Silmar Primieri",
+            "@id": "15",
+            "@timeoff": ".111111111111,.111111111111,.000000001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Thaiana",
+            "@name": "Thaiana Pereira dos Anjos",
+            "@id": "84",
+            "@timeoff": ".111111111111,.111111111111,.111111111111,.111111111111,.000000000000,.000000000000"
+        },
+        {
+            "@short": "Thiago",
+            "@name": "Thiago Henrique Mombach",
+            "@id": "73",
+            "@timeoff": ".111111111111,.111111111111,.111100001111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Thiago",
+            "@name": "Thiago Meneghel",
+            "@id": "24",
+            "@timeoff": ".111111111111,.111111111111,.111100000000,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Valter",
+            "@name": "Valter Pereira da Silva",
+            "@id": "74",
+            "@timeoff": ".000011111111,.111111111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Vilma",
+            "@name": "Vilma Gisele Karsburg",
+            "@id": "29",
+            "@timeoff": ".000000000000,.000011111111,.111111111111,.111111111111,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Vilson",
+            "@name": "Vilson Heck Junior",
+            "@id": "3",
+            "@timeoff": ".111111111111,.111111111111,.000000001111,.111100000000,.111111111111,.000000000000"
+        },
+        {
+            "@short": "Wilson",
+            "@name": "Wilson Castello Branco Neto",
+            "@id": "18",
+            "@timeoff": ".111111111111,.111111111111,.000000001111,.111111111111,.111111111111,.000000000000"
+        }
+    ],
+    "class1": [
+        {
+            "@id": "94",
+            "@name": "Tec Informatica (extincao) 4",
+            "@short": "TIA",
+            "@teacherid": "20",
+            "@timeoff": ".000011110000,.000011110000,.000011110000,.000011110000,.000011110000,.000000000000"
+        },
+        {
+            "@id": "124",
+            "@name": "Tec Agroneg�cio (extin��o) 4",
+            "@short": "TAGRON",
+            "@teacherid": "63",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "134",
+            "@name": "Tec Biotecnologia (grade velha 4",
+            "@short": "TB",
+            "@teacherid": "65",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "142",
+            "@name": "Grad Ciencia da Computacao 2",
+            "@short": "GCC",
+            "@teacherid": "10",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "144",
+            "@name": "Grad Ciencia da Computacao 4",
+            "@short": "GCC",
+            "@teacherid": "10",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "146",
+            "@name": "Grad Ciencia da Computacao 6",
+            "@short": "GCC",
+            "@teacherid": "10",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "148",
+            "@name": "Grad Ciencia da Computacao 8",
+            "@short": "GCC",
+            "@teacherid": "10",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "183",
+            "@name": "Tec Eletromecanica(grade velha 3",
+            "@short": "TE",
+            "@teacherid": "49",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "184",
+            "@name": "Tec Eletromecanica(grade velha 4",
+            "@short": "TE",
+            "@teacherid": "49",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "192",
+            "@name": "Grad Processos Quimicos 2",
+            "@short": "GPQ",
+            "@teacherid": "38",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "194",
+            "@name": "Grad Processos Quimicos 4",
+            "@short": "GPQ",
+            "@teacherid": "38",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "201",
+            "@name": "Tec Biotecnologia (grade nova) 1",
+            "@short": "TB",
+            "@teacherid": "65",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "202",
+            "@name": "Tec Biotecnologia (grade nova) 2",
+            "@short": "TB",
+            "@teacherid": "65",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "203",
+            "@name": "Tec Biotecnologia (grade nova) 3",
+            "@short": "TB",
+            "@teacherid": "65",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "204",
+            "@name": "Tec Biotecnologia (grade nova) 4",
+            "@short": "TB",
+            "@teacherid": "65",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "212",
+            "@name": "FIC - Ingl�s 2",
+            "@short": "FI",
+            "@teacherid": "20",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "213",
+            "@name": "FIC - Ingl�s 3",
+            "@short": "FI",
+            "@teacherid": "20",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "244",
+            "@name": "Tec Mecatr�nica(grade velha) 4",
+            "@short": "TMEC",
+            "@teacherid": "56",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "271",
+            "@name": "Grad Engenharia Mec�nica 1",
+            "@short": "GEM",
+            "@teacherid": "54",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "272",
+            "@name": "Grad Engenharia Mec�nica 2",
+            "@short": "GEM",
+            "@teacherid": "54",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "273",
+            "@name": "Grad Engenharia Mec�nica 3",
+            "@short": "GEM",
+            "@teacherid": "54",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "274",
+            "@name": "Grad Engenharia Mec�nica 4",
+            "@short": "GEM",
+            "@teacherid": "54",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "276",
+            "@name": "Grad Engenharia Mec�nica 6",
+            "@short": "GEM",
+            "@teacherid": "54",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "321",
+            "@name": "Tec Informatica para Internet 1",
+            "@short": "TII",
+            "@teacherid": "20",
+            "@timeoff": ".000011110000,.000011110000,.000011110000,.000011110000,.000011110000,.000000000000"
+        },
+        {
+            "@id": "322",
+            "@name": "Tec Informatica para Internet 2",
+            "@short": "TII",
+            "@teacherid": "20",
+            "@timeoff": ".000011110000,.000011110000,.000011110000,.000011110000,.000011110000,.000000000000"
+        },
+        {
+            "@id": "323",
+            "@name": "Tec Informatica para Internet 3",
+            "@short": "TII",
+            "@teacherid": "20",
+            "@timeoff": ".000011110000,.000011110000,.000011110000,.000011110000,.000011110000,.000000000000"
+        },
+        {
+            "@id": "331",
+            "@name": "Tec Eletromecanica(grade nova) 1",
+            "@short": "TE",
+            "@teacherid": "49",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "332",
+            "@name": "Tec Eletromecanica(grade nova) 2",
+            "@short": "TE",
+            "@teacherid": "49",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "342",
+            "@name": "Tec Mecatr�nica(grade nova) 2",
+            "@short": "TMEC",
+            "@teacherid": "56",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "351",
+            "@name": "Tec Agroecologia (grade nova) 1",
+            "@short": "TAGR",
+            "@teacherid": "32",
+            "@timeoff": ".000011110000,.000011110000,.000011110000,.000011110000,.000011110000,.000000000000"
+        },
+        {
+            "@id": "353",
+            "@name": "Tec Agroecologia (grade nova) 3",
+            "@short": "TAGR",
+            "@teacherid": "32",
+            "@timeoff": ".000011110000,.000011110000,.000011110000,.000011110000,.000011110000,.000000000000"
+        },
+        {
+            "@id": "362",
+            "@name": "Tec An. Qu�micas 2",
+            "@short": "TAQ",
+            "@teacherid": "41",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "364",
+            "@name": "Tec An. Qu�micas 4",
+            "@short": "TAQ",
+            "@teacherid": "41",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "371",
+            "@name": "Tec Administra��o 1",
+            "@short": "TADM",
+            "@teacherid": "63",
+            "@timeoff": ".000011110000,.000011110000,.000011110000,.000011110000,.000011110000,.000000000000"
+        },
+        {
+            "@id": "373",
+            "@name": "Tec Administra��o 3",
+            "@short": "TADM",
+            "@teacherid": "63",
+            "@timeoff": ".000011110000,.000011110000,.000011110000,.000011110000,.000011110000,.000000000000"
+        },
+        {
+            "@id": "432",
+            "@name": "P�s-Gradua��o em Gest�o Escola 2",
+            "@short": "PGE",
+            "@teacherid": "63",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "441",
+            "@name": "Produ��o da Uva e do Vinho 1",
+            "@short": "PUV",
+            "@teacherid": "32",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "481",
+            "@name": "FIC - Empreend  e Gest. Peq. N 1",
+            "@short": "FEGPN",
+            "@teacherid": "63",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        },
+        {
+            "@id": "531",
+            "@name": "Grad Gest�o do Agroneg�cio 1",
+            "@short": "GGA",
+            "@teacherid": "14",
+            "@timeoff": ".000000001111,.000000001111,.000000001111,.000000001111,.000000001111,.000000000000"
+        },
+        {
+            "@id": "541",
+            "@name": "FIC- Produ��o de Mudas Hortali 1",
+            "@short": "FPMH",
+            "@teacherid": "14",
+            "@timeoff": ".000011110000,.000011110000,.000011110000,.000011110000,.000011110000,.000000000000"
+        },
+        {
+            "@id": "552",
+            "@name": "FIC - Auxiliar Administrativo 2",
+            "@short": "FAA",
+            "@teacherid": "63",
+            "@timeoff": ".111100000000,.111100000000,.111100000000,.111100000000,.111100000000,.000000000000"
+        }
+    ],
+    "lesson1": [
+        {
+            "@id": "0",
+            "@subjectid": "57",
+            "@groupid": "",
+            "@classid": "124",
+            "@teacherid": "35",
+            "@classroomids": "78",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "1",
+            "@subjectid": "58",
+            "@groupid": "",
+            "@classid": "124",
+            "@teacherid": "74",
+            "@classroomids": "78",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "2",
+            "@subjectid": "59",
+            "@groupid": "",
+            "@classid": "124",
+            "@teacherid": "62",
+            "@classroomids": "78",
+            "@durationperiods": "1",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "3",
+            "@subjectid": "60",
+            "@groupid": "",
+            "@classid": "124",
+            "@teacherid": "77",
+            "@classroomids": "78",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "4",
+            "@subjectid": "61",
+            "@groupid": "",
+            "@classid": "124",
+            "@teacherid": "30",
+            "@classroomids": "78",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "5",
+            "@subjectid": "85",
+            "@groupid": "",
+            "@classid": "134",
+            "@teacherid": "45",
+            "@classroomids": "38",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "6",
+            "@subjectid": "86",
+            "@groupid": "",
+            "@classid": "134",
+            "@teacherid": "40",
+            "@classroomids": "38",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "7",
+            "@subjectid": "87",
+            "@groupid": "",
+            "@classid": "134",
+            "@teacherid": "33",
+            "@classroomids": "38",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "8",
+            "@subjectid": "89",
+            "@groupid": "",
+            "@classid": "134",
+            "@teacherid": "45",
+            "@classroomids": "38",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "9",
+            "@subjectid": "90",
+            "@groupid": "",
+            "@classid": "134",
+            "@teacherid": "34",
+            "@classroomids": "38",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "10",
+            "@subjectid": "103",
+            "@groupid": "",
+            "@classid": "94",
+            "@teacherid": "67",
+            "@classroomids": "50",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "11",
+            "@subjectid": "105",
+            "@groupid": "",
+            "@classid": "94",
+            "@teacherid": "17",
+            "@classroomids": "50",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "12",
+            "@subjectid": "106",
+            "@groupid": "",
+            "@classid": "94",
+            "@teacherid": "88",
+            "@classroomids": "50",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "13",
+            "@subjectid": "107",
+            "@groupid": "",
+            "@classid": "94",
+            "@teacherid": "68",
+            "@classroomids": "50",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "14",
+            "@subjectid": "108",
+            "@groupid": "",
+            "@classid": "94",
+            "@teacherid": "84",
+            "@classroomids": "50",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "15",
+            "@subjectid": "137",
+            "@groupid": "",
+            "@classid": "183",
+            "@teacherid": "49",
+            "@classroomids": "61",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "16",
+            "@subjectid": "138",
+            "@groupid": "",
+            "@classid": "183",
+            "@teacherid": "73",
+            "@classroomids": "37",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "17",
+            "@subjectid": "139",
+            "@groupid": "",
+            "@classid": "183",
+            "@teacherid": "52",
+            "@classroomids": "37",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "18",
+            "@subjectid": "140",
+            "@groupid": "",
+            "@classid": "183",
+            "@teacherid": "66",
+            "@classroomids": "65",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "19",
+            "@subjectid": "141",
+            "@groupid": "",
+            "@classid": "183",
+            "@teacherid": "56",
+            "@classroomids": "37",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "20",
+            "@subjectid": "142",
+            "@groupid": "",
+            "@classid": "183",
+            "@teacherid": "44",
+            "@classroomids": "51",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "21",
+            "@subjectid": "143",
+            "@groupid": "",
+            "@classid": "183",
+            "@teacherid": "36",
+            "@classroomids": "24",
+            "@durationperiods": "1",
+            "@periodsperweek": "1"
+        },
+        {
+            "@id": "22",
+            "@subjectid": "145",
+            "@groupid": "",
+            "@classid": "184",
+            "@teacherid": "48",
+            "@classroomids": "56",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "23",
+            "@subjectid": "146",
+            "@groupid": "",
+            "@classid": "184",
+            "@teacherid": "36",
+            "@classroomids": "67",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "24",
+            "@subjectid": "147",
+            "@groupid": "",
+            "@classid": "184",
+            "@teacherid": "69",
+            "@classroomids": "54",
+            "@durationperiods": "1",
+            "@periodsperweek": "1"
+        },
+        {
+            "@id": "25",
+            "@subjectid": "148",
+            "@groupid": "",
+            "@classid": "184",
+            "@teacherid": "63",
+            "@classroomids": "37",
+            "@durationperiods": "1",
+            "@periodsperweek": "1"
+        },
+        {
+            "@id": "26",
+            "@subjectid": "149",
+            "@groupid": "",
+            "@classid": "184",
+            "@teacherid": "66",
+            "@classroomids": "37",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "27",
+            "@subjectid": "150",
+            "@groupid": "",
+            "@classid": "184",
+            "@teacherid": "55",
+            "@classroomids": "61",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "28",
+            "@subjectid": "151",
+            "@groupid": "",
+            "@classid": "184",
+            "@teacherid": "36",
+            "@classroomids": "67",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "29",
+            "@subjectid": "153",
+            "@groupid": "",
+            "@classid": "192",
+            "@teacherid": "78",
+            "@classroomids": "30",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "30",
+            "@subjectid": "155",
+            "@groupid": "",
+            "@classid": "192",
+            "@teacherid": "36",
+            "@classroomids": "59",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "31",
+            "@subjectid": "156",
+            "@groupid": "",
+            "@classid": "192",
+            "@teacherid": "40",
+            "@classroomids": "30",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "32",
+            "@subjectid": "157",
+            "@groupid": "",
+            "@classid": "192",
+            "@teacherid": "41",
+            "@classroomids": "30",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "33",
+            "@subjectid": "158",
+            "@groupid": "",
+            "@classid": "192",
+            "@teacherid": "90",
+            "@classroomids": "30",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "34",
+            "@subjectid": "159",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "79",
+            "@classroomids": "29",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "35",
+            "@subjectid": "161",
+            "@groupid": "",
+            "@classid": "192",
+            "@teacherid": "38",
+            "@classroomids": "30",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "36",
+            "@subjectid": "162",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "40",
+            "@classroomids": "29",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "37",
+            "@subjectid": "163",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "40",
+            "@classroomids": "29",
+            "@durationperiods": "1",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "38",
+            "@subjectid": "164",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "33",
+            "@classroomids": "29",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "39",
+            "@subjectid": "165",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "58",
+            "@classroomids": "29",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "40",
+            "@subjectid": "166",
+            "@groupid": "",
+            "@classid": "192",
+            "@teacherid": "65",
+            "@classroomids": "30",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "41",
+            "@subjectid": "187",
+            "@groupid": "",
+            "@classid": "134",
+            "@teacherid": "60",
+            "@classroomids": "38",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "42",
+            "@subjectid": "242",
+            "@groupid": "",
+            "@classid": "272",
+            "@teacherid": "27",
+            "@classroomids": "34",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "43",
+            "@subjectid": "246",
+            "@groupid": "",
+            "@classid": "272",
+            "@teacherid": "53",
+            "@classroomids": "34",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "44",
+            "@subjectid": "258",
+            "@groupid": "",
+            "@classid": "274",
+            "@teacherid": "53",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "45",
+            "@subjectid": "261",
+            "@groupid": "",
+            "@classid": "184",
+            "@teacherid": "66",
+            "@classroomids": "65",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "46",
+            "@subjectid": "270",
+            "@groupid": "",
+            "@classid": "321",
+            "@teacherid": "88",
+            "@classroomids": "54",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "47",
+            "@subjectid": "272",
+            "@groupid": "",
+            "@classid": "321",
+            "@teacherid": "67",
+            "@classroomids": "54",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "48",
+            "@subjectid": "273",
+            "@groupid": "",
+            "@classid": "321",
+            "@teacherid": "80",
+            "@classroomids": "30",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "49",
+            "@subjectid": "277",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "15",
+            "@classroomids": "40",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "50",
+            "@subjectid": "296",
+            "@groupid": "",
+            "@classid": "134",
+            "@teacherid": "35",
+            "@classroomids": "38",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "51",
+            "@subjectid": "297",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "59",
+            "@classroomids": "40",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "52",
+            "@subjectid": "298",
+            "@groupid": "",
+            "@classid": "202",
+            "@teacherid": "74",
+            "@classroomids": "30",
+            "@durationperiods": "1",
+            "@periodsperweek": "1"
+        },
+        {
+            "@id": "53",
+            "@subjectid": "299",
+            "@groupid": "",
+            "@classid": "202",
+            "@teacherid": "65",
+            "@classroomids": "30",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "54",
+            "@subjectid": "300",
+            "@groupid": "",
+            "@classid": "202",
+            "@teacherid": "40",
+            "@classroomids": "30",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "55",
+            "@subjectid": "301",
+            "@groupid": "",
+            "@classid": "202",
+            "@teacherid": "45",
+            "@classroomids": "30",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "56",
+            "@subjectid": "302",
+            "@groupid": "",
+            "@classid": "202",
+            "@teacherid": "45",
+            "@classroomids": "30",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "57",
+            "@subjectid": "303",
+            "@groupid": "",
+            "@classid": "202",
+            "@teacherid": "59",
+            "@classroomids": "30",
+            "@durationperiods": "1",
+            "@periodsperweek": "1"
+        },
+        {
+            "@id": "58",
+            "@subjectid": "304",
+            "@groupid": "",
+            "@classid": "202",
+            "@teacherid": "14",
+            "@classroomids": "30",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "59",
+            "@subjectid": "340",
+            "@groupid": "",
+            "@classid": "212",
+            "@teacherid": "8",
+            "@classroomids": "45",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "60",
+            "@subjectid": "341",
+            "@groupid": "",
+            "@classid": "212",
+            "@teacherid": "8",
+            "@classroomids": "45",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "61",
+            "@subjectid": "342",
+            "@groupid": "",
+            "@classid": "331",
+            "@teacherid": "52",
+            "@classroomids": "59",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "62",
+            "@subjectid": "343",
+            "@groupid": "",
+            "@classid": "331",
+            "@teacherid": "73",
+            "@classroomids": "33",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "63",
+            "@subjectid": "344",
+            "@groupid": "",
+            "@classid": "331",
+            "@teacherid": "27",
+            "@classroomids": "33",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "64",
+            "@subjectid": "345",
+            "@groupid": "",
+            "@classid": "331",
+            "@teacherid": "82",
+            "@classroomids": "22",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "65",
+            "@subjectid": "346",
+            "@groupid": "",
+            "@classid": "331",
+            "@teacherid": "80",
+            "@classroomids": "33",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "66",
+            "@subjectid": "347",
+            "@groupid": "",
+            "@classid": "331",
+            "@teacherid": "19",
+            "@classroomids": "54",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "67",
+            "@subjectid": "365",
+            "@groupid": "",
+            "@classid": "124",
+            "@teacherid": "74",
+            "@classroomids": "54",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "68",
+            "@subjectid": "396",
+            "@groupid": "",
+            "@classid": "142",
+            "@teacherid": "11",
+            "@classroomids": "54",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "69",
+            "@subjectid": "415",
+            "@groupid": "",
+            "@classid": "322",
+            "@teacherid": "17",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "70",
+            "@subjectid": "416",
+            "@groupid": "",
+            "@classid": "322",
+            "@teacherid": "84",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "71",
+            "@subjectid": "417",
+            "@groupid": "",
+            "@classid": "322",
+            "@teacherid": "84",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "72",
+            "@subjectid": "418",
+            "@groupid": "",
+            "@classid": "244",
+            "@teacherid": "71",
+            "@classroomids": "37",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "73",
+            "@subjectid": "419",
+            "@groupid": "",
+            "@classid": "244",
+            "@teacherid": "44",
+            "@classroomids": "37",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "74",
+            "@subjectid": "420",
+            "@groupid": "",
+            "@classid": "244",
+            "@teacherid": "48",
+            "@classroomids": "37",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "75",
+            "@subjectid": "421",
+            "@groupid": "",
+            "@classid": "244",
+            "@teacherid": "44",
+            "@classroomids": "37",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "76",
+            "@subjectid": "422",
+            "@groupid": "",
+            "@classid": "244",
+            "@teacherid": "36",
+            "@classroomids": "37",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "77",
+            "@subjectid": "423",
+            "@groupid": "",
+            "@classid": "244",
+            "@teacherid": "56",
+            "@classroomids": "37",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "78",
+            "@subjectid": "424",
+            "@groupid": "",
+            "@classid": "342",
+            "@teacherid": "69",
+            "@classroomids": "54",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "79",
+            "@subjectid": "425",
+            "@groupid": "",
+            "@classid": "342",
+            "@teacherid": "82",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "80",
+            "@subjectid": "426",
+            "@groupid": "",
+            "@classid": "342",
+            "@teacherid": "55",
+            "@classroomids": "31",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "81",
+            "@subjectid": "427",
+            "@groupid": "",
+            "@classid": "342",
+            "@teacherid": "66",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "82",
+            "@subjectid": "428",
+            "@groupid": "",
+            "@classid": "342",
+            "@teacherid": "69",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "83",
+            "@subjectid": "429",
+            "@groupid": "",
+            "@classid": "342",
+            "@teacherid": "55",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "84",
+            "@subjectid": "437",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "79",
+            "@classroomids": "40",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "85",
+            "@subjectid": "440",
+            "@groupid": "",
+            "@classid": "441",
+            "@teacherid": "31",
+            "@classroomids": "33",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "86",
+            "@subjectid": "441",
+            "@groupid": "",
+            "@classid": "441",
+            "@teacherid": "31",
+            "@classroomids": "33",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "87",
+            "@subjectid": "442",
+            "@groupid": "",
+            "@classid": "441",
+            "@teacherid": "64",
+            "@classroomids": "33",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "88",
+            "@subjectid": "456",
+            "@groupid": "",
+            "@classid": "134",
+            "@teacherid": "33",
+            "@classroomids": "38",
+            "@durationperiods": "1",
+            "@periodsperweek": "1"
+        },
+        {
+            "@id": "89",
+            "@subjectid": "457",
+            "@groupid": "",
+            "@classid": "134",
+            "@teacherid": "45",
+            "@classroomids": "38",
+            "@durationperiods": "1",
+            "@periodsperweek": "1"
+        },
+        {
+            "@id": "90",
+            "@subjectid": "458",
+            "@groupid": "",
+            "@classid": "321",
+            "@teacherid": "18",
+            "@classroomids": "54",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "91",
+            "@subjectid": "459",
+            "@groupid": "",
+            "@classid": "321",
+            "@teacherid": "17",
+            "@classroomids": "54",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "92",
+            "@subjectid": "460",
+            "@groupid": "",
+            "@classid": "322",
+            "@teacherid": "11",
+            "@classroomids": "53",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "93",
+            "@subjectid": "461",
+            "@groupid": "",
+            "@classid": "94",
+            "@teacherid": "17",
+            "@classroomids": "50",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "94",
+            "@subjectid": "462",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "58",
+            "@classroomids": "40",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "95",
+            "@subjectid": "463",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "59",
+            "@classroomids": "29",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "96",
+            "@subjectid": "464",
+            "@groupid": "",
+            "@classid": "203",
+            "@teacherid": "79",
+            "@classroomids": "46",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "97",
+            "@subjectid": "465",
+            "@groupid": "",
+            "@classid": "203",
+            "@teacherid": "34",
+            "@classroomids": "46",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "98",
+            "@subjectid": "466",
+            "@groupid": "",
+            "@classid": "203",
+            "@teacherid": "8",
+            "@classroomids": "46",
+            "@durationperiods": "1",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "99",
+            "@subjectid": "467",
+            "@groupid": "",
+            "@classid": "203",
+            "@teacherid": "15",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "100",
+            "@subjectid": "468",
+            "@groupid": "",
+            "@classid": "203",
+            "@teacherid": "15",
+            "@classroomids": "46",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "101",
+            "@subjectid": "470",
+            "@groupid": "",
+            "@classid": "203",
+            "@teacherid": "35",
+            "@classroomids": "46",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "102",
+            "@subjectid": "471",
+            "@groupid": "",
+            "@classid": "142",
+            "@teacherid": "68",
+            "@classroomids": "54",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "103",
+            "@subjectid": "473",
+            "@groupid": "",
+            "@classid": "142",
+            "@teacherid": "44",
+            "@classroomids": "34",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "104",
+            "@subjectid": "474",
+            "@groupid": "",
+            "@classid": "142",
+            "@teacherid": "27",
+            "@classroomids": "34",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "105",
+            "@subjectid": "475",
+            "@groupid": "",
+            "@classid": "142",
+            "@teacherid": "67",
+            "@classroomids": "54",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "106",
+            "@subjectid": "476",
+            "@groupid": "",
+            "@classid": "144",
+            "@teacherid": "18",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "107",
+            "@subjectid": "477",
+            "@groupid": "",
+            "@classid": "144",
+            "@teacherid": "67",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "108",
+            "@subjectid": "478",
+            "@groupid": "",
+            "@classid": "144",
+            "@teacherid": "10",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "109",
+            "@subjectid": "479",
+            "@groupid": "",
+            "@classid": "144",
+            "@teacherid": "11",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "110",
+            "@subjectid": "480",
+            "@groupid": "",
+            "@classid": "144",
+            "@teacherid": "84",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "111",
+            "@subjectid": "481",
+            "@groupid": "",
+            "@classid": "144",
+            "@teacherid": "29",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "112",
+            "@subjectid": "482",
+            "@groupid": "",
+            "@classid": "144",
+            "@teacherid": "19",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "113",
+            "@subjectid": "483",
+            "@groupid": "",
+            "@classid": "146",
+            "@teacherid": "3",
+            "@classroomids": "52",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "114",
+            "@subjectid": "484",
+            "@groupid": "",
+            "@classid": "146",
+            "@teacherid": "20",
+            "@classroomids": "52",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "115",
+            "@subjectid": "485",
+            "@groupid": "",
+            "@classid": "146",
+            "@teacherid": "18",
+            "@classroomids": "52",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "116",
+            "@subjectid": "486",
+            "@groupid": "",
+            "@classid": "146",
+            "@teacherid": "88",
+            "@classroomids": "52",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "117",
+            "@subjectid": "487",
+            "@groupid": "",
+            "@classid": "146",
+            "@teacherid": "20",
+            "@classroomids": "52",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "118",
+            "@subjectid": "488",
+            "@groupid": "",
+            "@classid": "146",
+            "@teacherid": "10",
+            "@classroomids": "52",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "119",
+            "@subjectid": "489",
+            "@groupid": "",
+            "@classid": "148",
+            "@teacherid": "10",
+            "@classroomids": "51",
+            "@durationperiods": "4",
+            "@periodsperweek": "8"
+        },
+        {
+            "@id": "120",
+            "@subjectid": "490",
+            "@groupid": "",
+            "@classid": "148",
+            "@teacherid": "84",
+            "@classroomids": "51",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "121",
+            "@subjectid": "491",
+            "@groupid": "",
+            "@classid": "148",
+            "@teacherid": "67",
+            "@classroomids": "51",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "122",
+            "@subjectid": "492",
+            "@groupid": "",
+            "@classid": "148",
+            "@teacherid": "17",
+            "@classroomids": "51",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "123",
+            "@subjectid": "493",
+            "@groupid": "",
+            "@classid": "362",
+            "@teacherid": "78",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "124",
+            "@subjectid": "494",
+            "@groupid": "",
+            "@classid": "362",
+            "@teacherid": "46",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "125",
+            "@subjectid": "495",
+            "@groupid": "",
+            "@classid": "362",
+            "@teacherid": "46",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "126",
+            "@subjectid": "496",
+            "@groupid": "",
+            "@classid": "362",
+            "@teacherid": "8",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "127",
+            "@subjectid": "497",
+            "@groupid": "",
+            "@classid": "362",
+            "@teacherid": "25",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "128",
+            "@subjectid": "498",
+            "@groupid": "",
+            "@classid": "362",
+            "@teacherid": "79",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "129",
+            "@subjectid": "499",
+            "@groupid": "",
+            "@classid": "362",
+            "@teacherid": "59",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "130",
+            "@subjectid": "500",
+            "@groupid": "",
+            "@classid": "362",
+            "@teacherid": "65",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "131",
+            "@subjectid": "501",
+            "@groupid": "",
+            "@classid": "364",
+            "@teacherid": "34",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "132",
+            "@subjectid": "502",
+            "@groupid": "",
+            "@classid": "364",
+            "@teacherid": "46",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "133",
+            "@subjectid": "503",
+            "@groupid": "",
+            "@classid": "364",
+            "@teacherid": "59",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "134",
+            "@subjectid": "504",
+            "@groupid": "",
+            "@classid": "364",
+            "@teacherid": "35",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "135",
+            "@subjectid": "505",
+            "@groupid": "",
+            "@classid": "364",
+            "@teacherid": "74",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "136",
+            "@subjectid": "506",
+            "@groupid": "",
+            "@classid": "364",
+            "@teacherid": "41",
+            "@classroomids": "52",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "137",
+            "@subjectid": "507",
+            "@groupid": "",
+            "@classid": "142",
+            "@teacherid": "29",
+            "@classroomids": "34",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "138",
+            "@subjectid": "508",
+            "@groupid": "",
+            "@classid": "272",
+            "@teacherid": "39",
+            "@classroomids": "54",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "139",
+            "@subjectid": "509",
+            "@groupid": "",
+            "@classid": "276",
+            "@teacherid": "39",
+            "@classroomids": "45",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "140",
+            "@subjectid": "510",
+            "@groupid": "",
+            "@classid": "272",
+            "@teacherid": "29",
+            "@classroomids": "34",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "141",
+            "@subjectid": "511",
+            "@groupid": "",
+            "@classid": "272",
+            "@teacherid": "78",
+            "@classroomids": "34",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "142",
+            "@subjectid": "512",
+            "@groupid": "",
+            "@classid": "272",
+            "@teacherid": "29",
+            "@classroomids": "34",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "143",
+            "@subjectid": "513",
+            "@groupid": "",
+            "@classid": "272",
+            "@teacherid": "39",
+            "@classroomids": "54",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "144",
+            "@subjectid": "514",
+            "@groupid": "",
+            "@classid": "272",
+            "@teacherid": "56",
+            "@classroomids": "34",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "145",
+            "@subjectid": "515",
+            "@groupid": "",
+            "@classid": "272",
+            "@teacherid": "56",
+            "@classroomids": "34",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "146",
+            "@subjectid": "516",
+            "@groupid": "",
+            "@classid": "272",
+            "@teacherid": "54",
+            "@classroomids": "34",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "147",
+            "@subjectid": "517",
+            "@groupid": "",
+            "@classid": "274",
+            "@teacherid": "27",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "148",
+            "@subjectid": "518",
+            "@groupid": "",
+            "@classid": "274",
+            "@teacherid": "29",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "149",
+            "@subjectid": "519",
+            "@groupid": "",
+            "@classid": "274",
+            "@teacherid": "66",
+            "@classroomids": "36",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "150",
+            "@subjectid": "520",
+            "@groupid": "",
+            "@classid": "274",
+            "@teacherid": "39",
+            "@classroomids": "36",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "151",
+            "@subjectid": "521",
+            "@groupid": "",
+            "@classid": "274",
+            "@teacherid": "52",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "152",
+            "@subjectid": "522",
+            "@groupid": "",
+            "@classid": "274",
+            "@teacherid": "72",
+            "@classroomids": "36",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "153",
+            "@subjectid": "523",
+            "@groupid": "",
+            "@classid": "276",
+            "@teacherid": "54",
+            "@classroomids": "45",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "154",
+            "@subjectid": "525",
+            "@groupid": "",
+            "@classid": "276",
+            "@teacherid": "54",
+            "@classroomids": "45",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "155",
+            "@subjectid": "526",
+            "@groupid": "",
+            "@classid": "276",
+            "@teacherid": "62",
+            "@classroomids": "45",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "156",
+            "@subjectid": "527",
+            "@groupid": "",
+            "@classid": "276",
+            "@teacherid": "52",
+            "@classroomids": "45",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "157",
+            "@subjectid": "528",
+            "@groupid": "",
+            "@classid": "276",
+            "@teacherid": "36",
+            "@classroomids": "45",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "158",
+            "@subjectid": "529",
+            "@groupid": "",
+            "@classid": "276",
+            "@teacherid": "49",
+            "@classroomids": "45",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "159",
+            "@subjectid": "530",
+            "@groupid": "",
+            "@classid": "271",
+            "@teacherid": "78",
+            "@classroomids": "33",
+            "@durationperiods": "3",
+            "@periodsperweek": "6"
+        },
+        {
+            "@id": "160",
+            "@subjectid": "531",
+            "@groupid": "",
+            "@classid": "273",
+            "@teacherid": "78",
+            "@classroomids": "33",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "161",
+            "@subjectid": "532",
+            "@groupid": "",
+            "@classid": "332",
+            "@teacherid": "69",
+            "@classroomids": "54",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "162",
+            "@subjectid": "533",
+            "@groupid": "",
+            "@classid": "332",
+            "@teacherid": "82",
+            "@classroomids": "32",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "163",
+            "@subjectid": "534",
+            "@groupid": "",
+            "@classid": "332",
+            "@teacherid": "49",
+            "@classroomids": "32",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "164",
+            "@subjectid": "535",
+            "@groupid": "",
+            "@classid": "332",
+            "@teacherid": "52",
+            "@classroomids": "32",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "165",
+            "@subjectid": "536",
+            "@groupid": "",
+            "@classid": "332",
+            "@teacherid": "69",
+            "@classroomids": "32",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "166",
+            "@subjectid": "537",
+            "@groupid": "",
+            "@classid": "332",
+            "@teacherid": "55",
+            "@classroomids": "32",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "167",
+            "@subjectid": "538",
+            "@groupid": "",
+            "@classid": "194",
+            "@teacherid": "60",
+            "@classroomids": "29",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "168",
+            "@subjectid": "539",
+            "@groupid": "",
+            "@classid": "194",
+            "@teacherid": "58",
+            "@classroomids": "29",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "169",
+            "@subjectid": "540",
+            "@groupid": "",
+            "@classid": "194",
+            "@teacherid": "79",
+            "@classroomids": "33",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "170",
+            "@subjectid": "541",
+            "@groupid": "",
+            "@classid": "194",
+            "@teacherid": "72",
+            "@classroomids": "29",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "171",
+            "@subjectid": "542",
+            "@groupid": "",
+            "@classid": "194",
+            "@teacherid": "25",
+            "@classroomids": "29",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "172",
+            "@subjectid": "543",
+            "@groupid": "",
+            "@classid": "194",
+            "@teacherid": "59",
+            "@classroomids": "29",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "173",
+            "@subjectid": "544",
+            "@groupid": "",
+            "@classid": "194",
+            "@teacherid": "46",
+            "@classroomids": "29",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "174",
+            "@subjectid": "548",
+            "@groupid": "",
+            "@classid": "362",
+            "@teacherid": "90",
+            "@classroomids": "71",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "175",
+            "@subjectid": "550",
+            "@groupid": "",
+            "@classid": "144",
+            "@teacherid": "10",
+            "@classroomids": "53",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "176",
+            "@subjectid": "553",
+            "@groupid": "",
+            "@classid": "342",
+            "@teacherid": "55",
+            "@classroomids": "31",
+            "@durationperiods": "1",
+            "@periodsperweek": "1"
+        },
+        {
+            "@id": "177",
+            "@subjectid": "554",
+            "@groupid": "",
+            "@classid": "244",
+            "@teacherid": "44",
+            "@classroomids": "37",
+            "@durationperiods": "1",
+            "@periodsperweek": "1"
+        },
+        {
+            "@id": "178",
+            "@subjectid": "555",
+            "@groupid": "",
+            "@classid": "332",
+            "@teacherid": "49",
+            "@classroomids": "32",
+            "@durationperiods": "1",
+            "@periodsperweek": "1"
+        },
+        {
+            "@id": "179",
+            "@subjectid": "556",
+            "@groupid": "",
+            "@classid": "183",
+            "@teacherid": "36",
+            "@classroomids": "24",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "180",
+            "@subjectid": "557",
+            "@groupid": "",
+            "@classid": "184",
+            "@teacherid": "48",
+            "@classroomids": "56",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "181",
+            "@subjectid": "559",
+            "@groupid": "",
+            "@classid": "213",
+            "@teacherid": "25",
+            "@classroomids": "46",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "182",
+            "@subjectid": "563",
+            "@groupid": "",
+            "@classid": "531",
+            "@teacherid": "14",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "183",
+            "@subjectid": "564",
+            "@groupid": "",
+            "@classid": "531",
+            "@teacherid": "14",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "184",
+            "@subjectid": "565",
+            "@groupid": "",
+            "@classid": "531",
+            "@teacherid": "62",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "185",
+            "@subjectid": "566",
+            "@groupid": "",
+            "@classid": "531",
+            "@teacherid": "",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "186",
+            "@subjectid": "567",
+            "@groupid": "",
+            "@classid": "531",
+            "@teacherid": "",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "187",
+            "@subjectid": "568",
+            "@groupid": "",
+            "@classid": "531",
+            "@teacherid": "31",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "188",
+            "@subjectid": "569",
+            "@groupid": "",
+            "@classid": "531",
+            "@teacherid": "",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "189",
+            "@subjectid": "570",
+            "@groupid": "",
+            "@classid": "531",
+            "@teacherid": "",
+            "@classroomids": "54",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "190",
+            "@subjectid": "571",
+            "@groupid": "",
+            "@classid": "351",
+            "@teacherid": "40",
+            "@classroomids": "78",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "191",
+            "@subjectid": "572",
+            "@groupid": "",
+            "@classid": "351",
+            "@teacherid": "33",
+            "@classroomids": "78",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "192",
+            "@subjectid": "573",
+            "@groupid": "",
+            "@classid": "351",
+            "@teacherid": "30",
+            "@classroomids": "78",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "193",
+            "@subjectid": "575",
+            "@groupid": "",
+            "@classid": "351",
+            "@teacherid": "14",
+            "@classroomids": "78",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "194",
+            "@subjectid": "576",
+            "@groupid": "",
+            "@classid": "351",
+            "@teacherid": "19",
+            "@classroomids": "50",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "195",
+            "@subjectid": "577",
+            "@groupid": "",
+            "@classid": "541",
+            "@teacherid": "14",
+            "@classroomids": "78",
+            "@durationperiods": "2",
+            "@periodsperweek": "8"
+        },
+        {
+            "@id": "196",
+            "@subjectid": "578",
+            "@groupid": "",
+            "@classid": "351",
+            "@teacherid": "31",
+            "@classroomids": "78",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "197",
+            "@subjectid": "582",
+            "@groupid": "",
+            "@classid": "353",
+            "@teacherid": "64",
+            "@classroomids": "52",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "198",
+            "@subjectid": "583",
+            "@groupid": "",
+            "@classid": "353",
+            "@teacherid": "34",
+            "@classroomids": "40",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "199",
+            "@subjectid": "584",
+            "@groupid": "",
+            "@classid": "353",
+            "@teacherid": "30",
+            "@classroomids": "40",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "200",
+            "@subjectid": "585",
+            "@groupid": "",
+            "@classid": "353",
+            "@teacherid": "32",
+            "@classroomids": "40",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "201",
+            "@subjectid": "586",
+            "@groupid": "",
+            "@classid": "371",
+            "@teacherid": "72",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "202",
+            "@subjectid": "587",
+            "@groupid": "",
+            "@classid": "371",
+            "@teacherid": "",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "203",
+            "@subjectid": "589",
+            "@groupid": "",
+            "@classid": "371",
+            "@teacherid": "",
+            "@classroomids": "31",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "204",
+            "@subjectid": "590",
+            "@groupid": "",
+            "@classid": "373",
+            "@teacherid": "62",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "205",
+            "@subjectid": "591",
+            "@groupid": "",
+            "@classid": "373",
+            "@teacherid": "77",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "206",
+            "@subjectid": "592",
+            "@groupid": "",
+            "@classid": "373",
+            "@teacherid": "74",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "207",
+            "@subjectid": "593",
+            "@groupid": "",
+            "@classid": "373",
+            "@teacherid": "80",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "208",
+            "@subjectid": "594",
+            "@groupid": "",
+            "@classid": "432",
+            "@teacherid": "8",
+            "@classroomids": "54",
+            "@durationperiods": "4",
+            "@periodsperweek": "12"
+        },
+        {
+            "@id": "209",
+            "@subjectid": "595",
+            "@groupid": "",
+            "@classid": "432",
+            "@teacherid": "77",
+            "@classroomids": "54",
+            "@durationperiods": "4",
+            "@periodsperweek": "12"
+        },
+        {
+            "@id": "210",
+            "@subjectid": "596",
+            "@groupid": "",
+            "@classid": "432",
+            "@teacherid": "63",
+            "@classroomids": "54",
+            "@durationperiods": "4",
+            "@periodsperweek": "12"
+        },
+        {
+            "@id": "211",
+            "@subjectid": "597",
+            "@groupid": "",
+            "@classid": "432",
+            "@teacherid": "25",
+            "@classroomids": "54",
+            "@durationperiods": "4",
+            "@periodsperweek": "12"
+        },
+        {
+            "@id": "212",
+            "@subjectid": "598",
+            "@groupid": "",
+            "@classid": "432",
+            "@teacherid": "72",
+            "@classroomids": "54",
+            "@durationperiods": "4",
+            "@periodsperweek": "12"
+        },
+        {
+            "@id": "213",
+            "@subjectid": "601",
+            "@groupid": "",
+            "@classid": "552",
+            "@teacherid": "77",
+            "@classroomids": "29",
+            "@durationperiods": "4",
+            "@periodsperweek": "8"
+        },
+        {
+            "@id": "214",
+            "@subjectid": "602",
+            "@groupid": "",
+            "@classid": "351",
+            "@teacherid": "64",
+            "@classroomids": "78",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "215",
+            "@subjectid": "603",
+            "@groupid": "",
+            "@classid": "353",
+            "@teacherid": "64",
+            "@classroomids": "52",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "216",
+            "@subjectid": "604",
+            "@groupid": "",
+            "@classid": "531",
+            "@teacherid": "14",
+            "@classroomids": "35",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "217",
+            "@subjectid": "605",
+            "@groupid": "",
+            "@classid": "204",
+            "@teacherid": "",
+            "@classroomids": "38",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "218",
+            "@subjectid": "606",
+            "@groupid": "",
+            "@classid": "204",
+            "@teacherid": "45",
+            "@classroomids": "38",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "219",
+            "@subjectid": "607",
+            "@groupid": "",
+            "@classid": "204",
+            "@teacherid": "35",
+            "@classroomids": "38",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "220",
+            "@subjectid": "608",
+            "@groupid": "",
+            "@classid": "204",
+            "@teacherid": "60",
+            "@classroomids": "38",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "221",
+            "@subjectid": "609",
+            "@groupid": "",
+            "@classid": "204",
+            "@teacherid": "80",
+            "@classroomids": "38",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "222",
+            "@subjectid": "610",
+            "@groupid": "",
+            "@classid": "204",
+            "@teacherid": "72",
+            "@classroomids": "38",
+            "@durationperiods": "1",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "223",
+            "@subjectid": "611",
+            "@groupid": "",
+            "@classid": "202",
+            "@teacherid": "15",
+            "@classroomids": "30",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "224",
+            "@subjectid": "612",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "40",
+            "@classroomids": "40",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "225",
+            "@subjectid": "613",
+            "@groupid": "",
+            "@classid": "201",
+            "@teacherid": "15",
+            "@classroomids": "29",
+            "@durationperiods": "3",
+            "@periodsperweek": "3"
+        },
+        {
+            "@id": "226",
+            "@subjectid": "614",
+            "@groupid": "",
+            "@classid": "94",
+            "@teacherid": "10",
+            "@classroomids": "50",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "227",
+            "@subjectid": "615",
+            "@groupid": "",
+            "@classid": "323",
+            "@teacherid": "19",
+            "@classroomids": "51",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "228",
+            "@subjectid": "616",
+            "@groupid": "",
+            "@classid": "323",
+            "@teacherid": "68",
+            "@classroomids": "51",
+            "@durationperiods": "4",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "229",
+            "@subjectid": "617",
+            "@groupid": "",
+            "@classid": "323",
+            "@teacherid": "17",
+            "@classroomids": "51",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "230",
+            "@subjectid": "618",
+            "@groupid": "",
+            "@classid": "323",
+            "@teacherid": "25",
+            "@classroomids": "30",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        },
+        {
+            "@id": "231",
+            "@subjectid": "619",
+            "@groupid": "",
+            "@classid": "323",
+            "@teacherid": "88",
+            "@classroomids": "51",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "232",
+            "@subjectid": "620",
+            "@groupid": "",
+            "@classid": "323",
+            "@teacherid": "84",
+            "@classroomids": "51",
+            "@durationperiods": "2",
+            "@periodsperweek": "4"
+        },
+        {
+            "@id": "233",
+            "@subjectid": "621",
+            "@groupid": "",
+            "@classid": "323",
+            "@teacherid": "17",
+            "@classroomids": "51",
+            "@durationperiods": "2",
+            "@periodsperweek": "2"
+        }
+    ]
+}
